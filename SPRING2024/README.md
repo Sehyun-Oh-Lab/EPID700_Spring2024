@@ -34,8 +34,6 @@ This timeline is recommended to ensure that submission to an indexed repository 
 At the time of writing, **Febuary 5, 2024**, the current objective is:
 * 5 min. class presentations is due **11:59PM EST Friday, 2/9**, email comments are due **11:59PM EST Wednesday, 2/14**
 
-Students unable to join this group session must record their presentations and share with the class over email. Recorded presentations are due at the start of the group session.<br/>
-
 These brief presentations are designed to introduce each research project to the class to motivate feedback which will help to shape the goals for the remainder of the semester. There are no formatting requirements, but the following structure is likely to be successful:
 
 * (Title Slide)
